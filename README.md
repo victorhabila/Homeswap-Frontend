@@ -6,7 +6,7 @@
 
 ## API
 
-https://github.com/Canestin/homeswap-api
+(https://github.com/victorhabila/Homeswap-Frontend)
 <br><br>
 
 ## Project description
